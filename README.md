@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Network Packer Indexer Implementation project aimed to design and implement a robust solution for capturing, indexing, and analyzing network packets in real-time using Arkime. The project aimed to enhance network traffic visibility, improve incident response capabilities, and support cybersecurity threat detection by leveraging scalable and efficient packet indexing.
+The Network Packer Indexer Implementation project aims to design and implement a robust solution for capturing, indexing, and analyzing network packets in real time using Arkime. The project aimed to enhance network traffic visibility, improve incident response capabilities, and support cybersecurity threat detection by leveraging scalable and efficient packet indexing.
 
 ### Skills Learned
 
@@ -159,14 +159,14 @@ sudo apt install geoipupdate
 
 *Ref 16: GeoIP Install*
 
-17) Lets open the GeoIP.conf up in nano editor
+17) Let's open the GeoIP.conf up in nano editor
 ```
 sudo nano /etc/GeoIP.conf
 ```
 
-18) Remove the pound sign of AccountID and LicenseKey then fill in those values we got from MaxMind license key creation page
+18) Remove the pound sign of AccountID and LicenseKey then fill in those values we got from the MaxMind license key creation page
   - Add GeoLite2-ASN after EditionIDs as well
-  - Hit ctrl X then Y then Enter to save file
+  - Hit ctrl X then Y then Enter to save the file
 
 ![1](https://github.com/user-attachments/assets/391d7026-1b86-4af9-8884-5db0ba802f4c)
 
@@ -187,7 +187,7 @@ systemctl restart arkimecapture.service
 ### Accessing Arkime
   - After installation, Arkime will be accessible through your Ubuntu Server IP address over port 8005
   - Congratulations! You have successfully installed Arkime!
-  - You can now head over to https://www.malware-traffic-analysis.net and downloads some malicious pcaps files onto the Ubuntu Server machine and open it up in Arkime to play around and sharpen up your skills!
+  - You can now head over to https://www.malware-traffic-analysis.net and download some malicious pcaps files onto the Ubuntu Server machine and open it up in Arkime to play around and sharpen up your skills!
 
 
 
