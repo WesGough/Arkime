@@ -2,13 +2,12 @@
 
 ## Objective
 
-The Network Packer Indexer Implementation project aims to design and implement a robust solution for capturing, indexing, and analyzing network packets in real time using Arkime. The project aimed to enhance network traffic visibility, improve incident response capabilities, and support cybersecurity threat detection by leveraging scalable and efficient packet indexing.
+The Network Packer Indexer Implementation project aims to design and implement a robust solution for capturing, indexing, and analyzing network packets in real time using Arkime. The project aims to enhance network traffic visibility, improve incident response capabilities, and support cybersecurity threat detection by leveraging scalable and efficient packet indexing.
 
 ### Skills Learned
 
 - Setup and Configuration: Understanding the installation and configuration process of each tool
 - Integration: Learning how these tools integrate and work together 
-- Ability to analyze and upload PCAPs
 - Practical Skills: Gaining hands-on experience in setting up a Network Packet Indexer
 
 ### Tools Used
