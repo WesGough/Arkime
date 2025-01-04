@@ -184,6 +184,7 @@ systemctl restart arkimecapture.service
 
 
 ### Accessing Arkime
+
   - After installation, Arkime will be accessible through your Ubuntu Server IP address over port 8005
   - Congratulations! You have successfully installed Arkime!
   - You can now head over to https://www.malware-traffic-analysis.net and download some malicious pcaps files onto the Ubuntu Server machine and open it up in Arkime to play around and sharpen up your skills!
